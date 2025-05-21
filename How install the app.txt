@@ -1,0 +1,4 @@
+Type this in MTALAB's Command Window :
+
+open("PATH.mlappinstall");
+
